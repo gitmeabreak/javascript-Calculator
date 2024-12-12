@@ -1,0 +1,13 @@
+button{
+    width: 28%;
+    height: 20%;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#calculator{
+    background-color: #444444;
+    padding: 50px;
+    border-radius: 17.5%;
+    max-width: 500px;
+}
